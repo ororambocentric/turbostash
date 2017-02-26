@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09003"
+   height="744.09003"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/idzn/dev/indachaos/images/app-icon.png"
+   inkscape:export-xdpi="7.9680829"
+   inkscape:export-ydpi="7.9680829">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="2485.365 : 1366.8823 : 1"
+       inkscape:vp_y="-9.4044514 : -1067.4453 : 0"
+       inkscape:vp_z="-668.44111 : 847.87351 : 1"
+       inkscape:persp3d-origin="803.05728 : 1212.9881 : 1"
+       id="perspective3868" />
+    <linearGradient
+       id="linearGradient3772"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3774" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497476"
+     inkscape:cx="1150.3467"
+     inkscape:cy="224.31798"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2988"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.27218)">
+    <path
+       transform="matrix(0.87493349,0,0,0.87493349,463.70816,782.11232)"
+       d="m -880,364.09003 c 0,231.95959 -188.0404,420 -420,420 -231.9596,0 -420,-188.04041 -420,-420 0,-231.9596 188.0404,-420.000003 420,-420.000003 231.9596,0 420,188.040403 420,420.000003 z"
+       sodipodi:ry="420"
+       sodipodi:rx="420"
+       sodipodi:cy="364.09003"
+       sodipodi:cx="-1300"
+       id="path3794"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="use3798"
+       sodipodi:cx="-1300"
+       sodipodi:cy="364.09003"
+       sodipodi:rx="420"
+       sodipodi:ry="420"
+       d="m -880,364.09003 c 0,231.95959 -188.0404,420 -420,420 -231.9596,0 -420,-188.04041 -420,-420 0,-231.9596 188.0404,-420.000003 420,-420.000003 231.9596,0 420,188.040403 420,420.000003 z"
+       transform="matrix(0.87493349,0,0,0.87493349,96.0126,301.27976)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="use3800"
+       sodipodi:cx="-1300"
+       sodipodi:cy="364.09003"
+       sodipodi:rx="420"
+       sodipodi:ry="420"
+       d="m -880,364.09003 c 0,231.95959 -188.0404,420 -420,420 -231.9596,0 -420,-188.04041 -420,-420 0,-231.9596 188.0404,-420.000003 420,-420.000003 231.9596,0 420,188.040403 420,420.000003 z"
+       transform="matrix(0.87493349,0,0,0.87493349,1174.8556,-579.57331)" />
+    <path
+       transform="matrix(0.87493349,0,0,0.87493349,1510.2059,361.86856)"
+       d="m -880,364.09003 c 0,231.95959 -188.0404,420 -420,420 -231.9596,0 -420,-188.04041 -420,-420 0,-231.9596 188.0404,-420.000003 420,-420.000003 231.9596,0 420,188.040403 420,420.000003 z"
+       sodipodi:ry="420"
+       sodipodi:rx="420"
+       sodipodi:cy="364.09003"
+       sodipodi:cx="-1300"
+       id="path3804"
+       style="fill:#1b395f;fill-opacity:0.83858269;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/idzn/dev/indachaos/resources/app/app-icon.png"
+       inkscape:export-xdpi="7.8364553"
+       inkscape:export-ydpi="7.8364553" />
+    <text
+       xml:space="preserve"
+       style="font-size:650px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+       x="-640.73663"
+       y="889.05377"
+       id="text4707"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan4709"
+         x="-640.73663"
+         y="889.05377"
+         style="font-size:650px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Stijla;-inkscape-font-specification:Stijla">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:224.86181641px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+       x="-1535.8461"
+       y="896.42059"
+       id="text4707-5"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan4709-4"
+         x="-1535.8461"
+         y="896.42059"
+         style="font-size:809.50250244px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold">i</tspan></text>
+  </g>
+</svg>
